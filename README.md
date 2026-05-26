@@ -61,9 +61,6 @@ We envision a future where digital information is truly personal and sovereign, 
 
 - Contract Address: CBLU4IUASQ4WUMOXBFLZRSBBLILGOH33GS4LUPKFBCCCMJCDQNMF7G2M
 
-## Deployed Contract Details
-- **Contract ID:** CAOB4S5BU2AWUWHTSWHAFLX5HG65FL7RT5ME46PENO3N547A63RURBMP
-- **Stellar Expert Link:** https://stellar.expert/explorer/testnet/contract/CAOB4S5BU2AWUWHTSWHAFLX5HG65FL7RT5ME46PENO3N547A63RURBMP
 
 ## Future Scope
 
@@ -119,3 +116,8 @@ Deploy the smart contract to Stellar's Soroban network and interact with it usin
 ---
 
 **Stellar Notes DApp** - Securing Your Thoughts on the Blockchain
+## Deployed Contract Details
+- **Contract ID:** CAOB4S5BU2AWUWHTSWHAFLX5HG65FL7RT5ME46PENO3N547A63RURBMP
+- **Stellar Expert Link:** https://stellar.expert/explorer/testnet/contract/CAOB4S5BU2AWUWHTSWHAFLX5HG65FL7RT5ME46PENO3N547A63RURBMP
+
+![SARIFI](123.png)
